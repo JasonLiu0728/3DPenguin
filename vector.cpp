@@ -1,11 +1,10 @@
 /***********************************************************
-             CSC418, FALL 2009
- 
-                 vector.cpp
-                 author: Mike Pratscher
+3D Penguin
 
-	   Vector class source file
+vector.cpp
+author: Mark Liu, Mike Pratscher
 
+Vector class source file
 ***********************************************************/
 
 #include <assert.h>

@@ -1,18 +1,17 @@
 /***********************************************************
-             CSC418, FALL 2009
+3D Penguin
 
-                 keyframe.h
-                 author: Mike Pratscher
+keyframe.h
+author: Mark Liu, Mike Pratscher
 
-		Keyframe class
-			This class provides a data structure that
-			represents a keyframe: (t_i, q_i)
-			where t_i is the time and
-			      q_i is the pose vector at that time
-			(see vector.h file for info on Vector class).
-			The data structure also includes an ID to
-			identify the keyframe.
-
+Keyframe class
+    This class provides a data structure that
+    represents a keyframe: (t_i, q_i)
+    where t_i is the time and
+          q_i is the pose vector at that time
+    (see vector.h file for info on Vector class).
+    The data structure also includes an ID to
+    identify the keyframe.
 ***********************************************************/
 
 #ifndef __KEYFRAME_H__

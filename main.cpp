@@ -1,41 +1,9 @@
-// Pending
-// Correct the normal vectors
-// Correct light position update
-// Write report
-// Finish part A
-
-
 /***********************************************************
-             CSC418, FALL 2009
+3D Penguin
 
-                 penguin.cpp
-                 author: Mike Pratscher
-                 based on code by: Eron Steger, J. Radulovich
-
-		Main source file for assignment 2
-		Uses OpenGL, GLUT and GLUI libraries
-
-    Instructions:
-        Please read the assignment page to determine
-        exactly what needs to be implemented.  Then read
-        over this file and become acquainted with its
-        design. In particular, see lines marked 'README'.
-
-		Be sure to also look over keyframe.h and vector.h.
-		While no changes are necessary to these files, looking
-		them over will allow you to better understand their
-		functionality and capabilites.
-
-        Add source code where it appears appropriate. In
-        particular, see lines marked 'TODO'.
-
-        You should not need to change the overall structure
-        of the program. However it should be clear what
-        your changes do, and you should use sufficient comments
-        to explain your code.  While the point of the assignment
-        is to draw and animate the character, you will
-        also be marked based on your design.
-
+main.cpp
+author: Mark Liu, Mike Pratscher
+based on code by: Eron Steger, J. Radulovich
 ***********************************************************/
 
 #ifdef _WIN32

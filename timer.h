@@ -1,13 +1,12 @@
 /***********************************************************
-             CSC418, FALL 2009
- 
-                 timer.h
-                 author: Mike Pratscher
+3D Penguin
 
-		Timer class
-			Provides a timer to drive the animation based
-			on time rather than frame rate.
+timer.h
+author: Mark Liu, Mike Pratscher
 
+Timer class
+    Provides a timer to drive the animation based
+    on time rather than frame rate.
 ***********************************************************/
 
 #ifndef __TIMER_H__
